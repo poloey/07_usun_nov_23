@@ -32,6 +32,6 @@ git diff
 
 git clone <repo url>
 
-!(https://raw.githubusercontent.com/poloey/07_usun_nov_23/master/cv.jpg)
+![](https://raw.githubusercontent.com/poloey/07_usun_nov_23/master/cv.jpg)
 
 
